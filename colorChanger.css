@@ -1,0 +1,52 @@
+html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  button {
+    display: block;
+  }
+  
+  .container {
+    margin: 100px auto 100px;
+    width: 80%;
+    text-align: center;
+  }
+  
+  .btn {
+    width: 100px;
+    height: 100px;
+    border: solid black 2px;
+    display: inline-block;
+  }
+  #reset {
+    display: inline-block;
+    margin: 3rem;
+    padding: 1rem;
+    font-size: 1.25rem;
+    background-color: #191913;
+    color: #fff;
+    border-radius: 1rem;
+    border: none;
+  }
+
+  h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+  
+  #red {
+    background: red;
+  }
+  
+  #white {
+    background: white;
+  }
+  #blue {
+    background: blue;
+  }
+  #green {
+    background: greenyellow;
+  }
